@@ -1,0 +1,32 @@
+[04-May-2017 06:20:25 America/Denver] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/paygo/public_html/paygo/backend/tests/_support/UnitTester.php on line 20
+[04-May-2017 14:19:43 America/Denver] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/paygo/public_html/paygo/backend/tests/_support/FunctionalTester.php on line 20
+[07-May-2017 04:50:00 America/Denver] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/paygo/public_html/paygo/backend/tests/_support/UnitTester.php on line 20
+[10-May-2017 13:30:18 America/Denver] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/paygo/public_html/paygo/backend/tests/_support/FunctionalTester.php on line 20
+[11-May-2017 19:42:16 America/Denver] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/paygo/public_html/paygo/backend/tests/_support/FunctionalTester.php on line 20
+[12-May-2017 15:25:56 America/Denver] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/paygo/public_html/paygo/backend/tests/_support/UnitTester.php on line 20
+[13-May-2017 13:13:23 America/Denver] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/paygo/public_html/paygo/backend/tests/_support/FunctionalTester.php on line 20
+[14-May-2017 05:59:42 America/Denver] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/paygo/public_html/paygo/backend/tests/_support/UnitTester.php on line 20
+[15-May-2017 11:25:18 America/Denver] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/paygo/public_html/paygo/backend/tests/_support/UnitTester.php on line 20
+[15-May-2017 14:31:12 America/Denver] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/paygo/public_html/paygo/backend/tests/_support/FunctionalTester.php on line 20
+[17-May-2017 03:28:47 America/Denver] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/paygo/public_html/paygo/backend/tests/_support/FunctionalTester.php on line 20
+[17-May-2017 11:11:04 America/Denver] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/paygo/public_html/paygo/backend/tests/_support/UnitTester.php on line 20
+[17-May-2017 13:24:17 America/Denver] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/paygo/public_html/paygo/backend/tests/_support/FunctionalTester.php on line 20
+[19-May-2017 07:57:36 America/Denver] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/paygo/public_html/paygo/backend/tests/_support/FunctionalTester.php on line 20
+[23-May-2017 09:16:24 America/Denver] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/paygo/public_html/paygo/backend/tests/_support/UnitTester.php on line 20
+[24-May-2017 16:54:35 America/Denver] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/paygo/public_html/paygo/backend/tests/_support/FunctionalTester.php on line 20
+[25-May-2017 04:52:37 America/Denver] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/paygo/public_html/paygo/backend/tests/_support/UnitTester.php on line 20
+[26-May-2017 02:55:40 America/Denver] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/paygo/public_html/paygo/backend/tests/_support/FunctionalTester.php on line 20
+[27-May-2017 10:39:45 America/Denver] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/paygo/public_html/paygo/backend/tests/_support/UnitTester.php on line 20
+[27-May-2017 20:24:23 America/Denver] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/paygo/public_html/paygo/backend/tests/_support/FunctionalTester.php on line 20
+[23-Jun-2017 04:57:20 America/Denver] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/paygo/public_html/paygo/backend/tests/_support/FunctionalTester.php on line 20
+[23-Jun-2017 13:18:17 America/Denver] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/paygo/public_html/paygo/backend/tests/_support/UnitTester.php on line 20
+[01-Sep-2017 07:24:13 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[01-Sep-2017 07:24:13 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[01-Sep-2017 07:24:13 UTC] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/paygo/public_html/paygo/backend/tests/_support/UnitTester.php on line 20
+[08-Nov-2017 08:48:33 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[08-Nov-2017 08:48:33 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[08-Nov-2017 08:48:33 UTC] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/paygo/public_html/paygo/backend/tests/_support/UnitTester.php on line 20
+[24-Dec-2017 23:22:58 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Dec-2017 23:22:58 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Dec-2017 23:22:58 UTC] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/paygo/public_html/paygo/backend/tests/_support/UnitTester.php on line 20
+[26-Apr-2018 16:09:21 America/New_York] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/paygo/public_html/paygo/backend/tests/_support/UnitTester.php on line 20
