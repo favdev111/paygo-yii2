@@ -1,0 +1,19 @@
+webdev0429@gmail.com
+bitbucket.org
+username   mikhail
+pwd        ilikefootball
+----guide
+https://www.yiiframework.com/doc/guide/2.0/en/start-gii
+--database
+CREATE USER 'paygo_paygo'@'localhost' IDENTIFIED BY '+eezT-,IQb[1';
+GRANT ALL ON paygo_paygo.* TO 'paygo_paygo'@'localhost';
+COMMIT;
+FLUSH PRIVILEGES;
+----site url
+https://dev.paygo.in/backend/web/index.php/site/login
+account
+admin / admin123
+another user
+pgadmin/ReadOnlyAdmin123!  ----superuser
+
+i am new to jira and gii,
